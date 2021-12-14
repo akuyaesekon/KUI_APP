@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531274572495",
+    "project_id": "kui-app-a853a",
+    "storage_bucket": "kui-app-a853a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531274572495:android:f955195f254532f7e78dba",
+        "android_client_info": {
+          "package_name": "com.example.kuiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531274572495-gk6fts37gn3e1ff262fpifofulleg3h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEWYmZl5PeqD7tMZV4Xkc76qTBkt1GyNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531274572495-gk6fts37gn3e1ff262fpifofulleg3h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
